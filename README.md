@@ -161,7 +161,7 @@ Try out our open demo and if you like our extension **please give us some star o
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
 then if you still need help, open a bug report in GitHub's
-[issue tracker](https://github.com/magefan/magento-2-ai-assitant/issues).
+[issue tracker](https://github.com/magefan/magento-2-ai-assistant/issues).
 
 ## Need More Features?
 Please contact us to get a quote
